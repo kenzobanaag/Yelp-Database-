@@ -9,7 +9,7 @@ namespace YelpProject.SQL
 {
     class SQLQueries
     {
-        private SQLConnString db3String = new SQLConnString("Milestone2DB", "J@vaisfun8");
+        private SQLConnString db3String = new SQLConnString("Milestone2DB", "password");
         private SQLConstants c = new SQLConstants();
 
         public SQLQueries() { }
